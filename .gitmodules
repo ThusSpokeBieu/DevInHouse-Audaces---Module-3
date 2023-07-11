@@ -1,0 +1,3 @@
+[submodule "M3S01-Escola-Api"]
+	path = M3S01-Escola-Api
+	url = git@github.com:gmessiasc/M3S01-Escola-Api.git
